@@ -4,7 +4,7 @@ import java.io.PrintStream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class MainTest {
+public class Test {
 
     @Test
     public void testPrintHelloWorld() {
